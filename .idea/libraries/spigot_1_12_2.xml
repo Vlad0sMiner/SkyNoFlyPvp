@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spigot-1.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/spigot-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/WorldEdit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/worldguard-6.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/spigot-1.12.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>

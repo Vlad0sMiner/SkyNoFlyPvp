@@ -1,0 +1,5 @@
+name: SkyNoFlyPvP
+main: ru.vlad0sminer.skynoflypvp.SkyNoFlyPvP
+version: 1.0
+author: Vlad0sMiner
+description: Маленький плагин на блокирование PVP во fly или GM
